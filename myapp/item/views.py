@@ -176,38 +176,54 @@ class GetSkinType(View):
 
 class itemList(View):
 
-    def get(self, request, *args, **kwargs):
+    def get(self, request):
         try:
     
             data = {
                 "skin_type"          : "itemskintype__first_skin_type",
                 "category"           : "category",
                 "exclude_ingredient" : "itemingredientmapping__ingredient__name__in",
-                "include_ingredient" : "itemingredientmapping__ingredient__name__contains",
+                "include_ingredient" : "itemingredientmapping__ingredient__name__in",
             }
 
             if 'skin_type' in request.GET and request.GET.get('skin_type') in ('oily', 'dry', 'sensitive'):
                 params_dict    = {}
                 ne_params_dict = {}
                 page           = int(request.GET.get('page', 1))
-                print(request.GET['exclude_ingredient'])
-                for k, v in request.GET.items():
-                    print(request.GET)
-                    if k == 'exclude_ingredient':
-                        ex_list = request.GET.getlist('exclude_ingredient')
-                        print(ex_list)
-                        for ex_v in ex_list:
-                            print('---')
-                            print(data[k])
-                            print(ex_v)
-                            ne_params_dict[data[k]] = ex_v
 
-                    elif k in data.keys():
+                for k, v in request.GET.items():
+                    if k == 'exclude_ingredient':
+                        ex_list                 = request.GET.getlist('exclude_ingredient')
+                        ne_params_dict[data[k]] = ex_list
+
+                    elif k == 'include_ingredient':
+                        in_list                 = request.GET.getlist('include_ingredient')
+                        params_dict[data[k]]    = in_list
+
+                    elif page:
+                        pass
+
+                    else:
                         params_dict[data[k]]    = v
-                        
+
                 item = Item.objects.filter(**params_dict).exclude(**ne_params_dict)[(page-1)*50:page*50]
-                print(item)
-                return JsonResponse({"MESSAGE":"SUCCESS"}, safe=False, status=200)
+
+                if len(item) == 0:
+                    return JsonResponse({'MESSAGE':'REQUEST_DATA_NOT_FOUND'}, status = 404)
+
+                result =  [ 
+                    {
+                        "id"            : result.id,
+                        "imgUrl"        : "https://grepp-programmers-challenges.s3.ap-northeast-2.amazonaws.com/2020-birdview/thumbnail/"+result.imageId+".jpg",
+                        "name"          : result.name,
+                        "price"         : result.price,
+                        "ingredients"   : ",".join(value['name'] for value in result.ingredients.values()),
+                        "monthlySales"  : result.monthlySales
+                    }
+                    for result in item]
+
+                return JsonResponse(result, safe=False, status=200)
+            
             else :
                 return JsonResponse({"MESSAGE":"SKIN_TYPE NEED"}, status=401)
         
@@ -215,5 +231,48 @@ class itemList(View):
             JsonResponse({"MESSAGE":"BAD REQUESTS"}, status=404)
 
 class itemDetail(View):
-    def get(self, request, id, skin_type, *args, **kwargs):
-        return JsonResponse({"MESSAGE":"SUCCESS"}, status=200)
+    def get(self, request, id):
+            
+        try:
+            if id and id in range(1,1001):
+                print(request.GET)
+                if 'skin_type' in request.GET and request.GET.get('skin_type') in ('oily', 'dry', 'sensitive'):
+                    skin_type = request.GET.get('skin_type')
+
+                else:
+                    return JsonResponse({"MESSAGE":"SKIN_TYPE_NEED"}, status=401)
+            else:
+                return JsonResponse({"MESSAGE":"ID_OUT_OF_RANGE"}, status=401)
+            
+            item = Item.objects.get(id = id)
+            print(item.ingredients)
+            result =  [ 
+                        {
+                            "id"            : item.id,
+                            "imgUrl"        : "https://grepp-programmers-challenges.s3.ap-northeast-2.amazonaws.com/2020-birdview/image/"+item.imageId+".jpg",
+                            "name"          : item.name,
+                            "price"         : item.price,
+                            "gender"        : item.gender,
+                            "category"      : item.category,
+                            "ingredients"   : ",".join(value['name'] for value in item.ingredients.values()),
+                            "monthlySales"  : item.monthlySales
+                        }
+                        ]
+            recomment_item = ItemSkinType.objects.filter(first_skin_type= skin_type, item__category = item.category).order_by('-first_skin_score')
+            for i in recomment_item.values():
+                print(i.)
+            # result.extend(
+            #                 {
+            #                 "id"            : recomment_item.item.id,
+            #                 "imgUrl"        : "https://grepp-programmers-challenges.s3.ap-northeast-2.amazonaws.com/2020-birdview/thumbnail/"+item.imageId+".jpg",
+            #                 "name"          : item.name,
+            #                 "price"         : item.price,
+
+            #                 }
+            #             )
+            # print(item.category)
+            # print(item.itemskintype_set.values())
+
+            return JsonResponse({"MESSAGE":"SUCCESS"}, status=200)
+        except:
+            JsonResponse({"MESSAGE":"BAD REQUESTS"}, status=404)
