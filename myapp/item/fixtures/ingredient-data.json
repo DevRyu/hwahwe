@@ -1,0 +1,10002 @@
+[
+	{
+		"model": "item.ingredient",
+		"pk": 1,
+		"fields": {
+			"name": "foundation",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 2,
+		"fields": {
+			"name": "jurisdiction",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 3,
+		"fields": {
+			"name": "reproduce",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 4,
+		"fields": {
+			"name": "potential",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 5,
+		"fields": {
+			"name": "population",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 6,
+		"fields": {
+			"name": "parameter",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 7,
+		"fields": {
+			"name": "radiation",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 8,
+		"fields": {
+			"name": "machinery",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 9,
+		"fields": {
+			"name": "possibility",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 10,
+		"fields": {
+			"name": "instruction",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 11,
+		"fields": {
+			"name": "radiation sickness",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 12,
+		"fields": {
+			"name": "houseplant",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 13,
+		"fields": {
+			"name": "egg white",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 14,
+		"fields": {
+			"name": "photograph",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 15,
+		"fields": {
+			"name": "responsibility",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 16,
+		"fields": {
+			"name": "credibility",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 17,
+		"fields": {
+			"name": "replacement",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 18,
+		"fields": {
+			"name": "sentiment",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 19,
+		"fields": {
+			"name": "neighbour",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 20,
+		"fields": {
+			"name": "depression",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 21,
+		"fields": {
+			"name": "condition",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 22,
+		"fields": {
+			"name": "reasonable",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 23,
+		"fields": {
+			"name": "disposition",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 24,
+		"fields": {
+			"name": "character",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 25,
+		"fields": {
+			"name": "empirical",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 26,
+		"fields": {
+			"name": "underline",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 27,
+		"fields": {
+			"name": "motorcycle",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 28,
+		"fields": {
+			"name": "legislature",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 29,
+		"fields": {
+			"name": "leftovers",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 30,
+		"fields": {
+			"name": "microphone",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 31,
+		"fields": {
+			"name": "fool around",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 32,
+		"fields": {
+			"name": "basketball",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 33,
+		"fields": {
+			"name": "exception",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 34,
+		"fields": {
+			"name": "photocopy",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 35,
+		"fields": {
+			"name": "connection",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 36,
+		"fields": {
+			"name": "introduction",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 37,
+		"fields": {
+			"name": "interface",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 38,
+		"fields": {
+			"name": "photography",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 39,
+		"fields": {
+			"name": "foreigner",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 40,
+		"fields": {
+			"name": "threshold",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 41,
+		"fields": {
+			"name": "detective",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 42,
+		"fields": {
+			"name": "compliance",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 43,
+		"fields": {
+			"name": "correspond",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 44,
+		"fields": {
+			"name": "absorption",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 45,
+		"fields": {
+			"name": "ice cream",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 46,
+		"fields": {
+			"name": "deprivation",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 47,
+		"fields": {
+			"name": "established",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 48,
+		"fields": {
+			"name": "pollution",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 49,
+		"fields": {
+			"name": "chauvinist",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 50,
+		"fields": {
+			"name": "innovation",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 51,
+		"fields": {
+			"name": "qualified",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 52,
+		"fields": {
+			"name": "color-blind",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 53,
+		"fields": {
+			"name": "provision",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 54,
+		"fields": {
+			"name": "censorship",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 55,
+		"fields": {
+			"name": "pneumonia",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 56,
+		"fields": {
+			"name": "democratic",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 57,
+		"fields": {
+			"name": "landowner",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 58,
+		"fields": {
+			"name": "volunteer",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 59,
+		"fields": {
+			"name": "essential",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 60,
+		"fields": {
+			"name": "distribute",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 61,
+		"fields": {
+			"name": "administration",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 62,
+		"fields": {
+			"name": "transaction",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 63,
+		"fields": {
+			"name": "talkative",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 64,
+		"fields": {
+			"name": "confession",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 65,
+		"fields": {
+			"name": "spokesperson",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 66,
+		"fields": {
+			"name": "crosswalk",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 67,
+		"fields": {
+			"name": "overcharge",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 68,
+		"fields": {
+			"name": "generation",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 69,
+		"fields": {
+			"name": "objective",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 70,
+		"fields": {
+			"name": "prevalence",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 71,
+		"fields": {
+			"name": "operational",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 72,
+		"fields": {
+			"name": "acceptance",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 73,
+		"fields": {
+			"name": "homosexual",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 74,
+		"fields": {
+			"name": "ambiguous",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 75,
+		"fields": {
+			"name": "constraint",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 76,
+		"fields": {
+			"name": "copyright",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 77,
+		"fields": {
+			"name": "negotiation",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 78,
+		"fields": {
+			"name": "directory",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 79,
+		"fields": {
+			"name": "substitute",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 80,
+		"fields": {
+			"name": "environmental",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 81,
+		"fields": {
+			"name": "timetable",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 82,
+		"fields": {
+			"name": "favourite",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 83,
+		"fields": {
+			"name": "firefighter",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 84,
+		"fields": {
+			"name": "monstrous",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 85,
+		"fields": {
+			"name": "redundancy",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 86,
+		"fields": {
+			"name": "cooperative",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 87,
+		"fields": {
+			"name": "production",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 88,
+		"fields": {
+			"name": "confidence",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 89,
+		"fields": {
+			"name": "accompany",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 90,
+		"fields": {
+			"name": "entertain",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 91,
+		"fields": {
+			"name": "ostracize",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 92,
+		"fields": {
+			"name": "mail carrier",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 93,
+		"fields": {
+			"name": "battlefield",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 94,
+		"fields": {
+			"name": "undertake",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 95,
+		"fields": {
+			"name": "earthflax",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 96,
+		"fields": {
+			"name": "bloodshed",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 97,
+		"fields": {
+			"name": "tradition",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 98,
+		"fields": {
+			"name": "laboratory",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 99,
+		"fields": {
+			"name": "modernize",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 100,
+		"fields": {
+			"name": "preparation",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 101,
+		"fields": {
+			"name": "profession",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 102,
+		"fields": {
+			"name": "countryside",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 103,
+		"fields": {
+			"name": "inspiration",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 104,
+		"fields": {
+			"name": "commitment",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 105,
+		"fields": {
+			"name": "disturbance",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 106,
+		"fields": {
+			"name": "breakdown",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 107,
+		"fields": {
+			"name": "courtship",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 108,
+		"fields": {
+			"name": "communist",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 109,
+		"fields": {
+			"name": "partnership",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 110,
+		"fields": {
+			"name": "circulate",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 111,
+		"fields": {
+			"name": "conscious",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 112,
+		"fields": {
+			"name": "insistence",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 113,
+		"fields": {
+			"name": "difficult",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 114,
+		"fields": {
+			"name": "progressive",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 115,
+		"fields": {
+			"name": "socialist",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 116,
+		"fields": {
+			"name": "girlfriend",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 117,
+		"fields": {
+			"name": "privilege",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 118,
+		"fields": {
+			"name": "conventional",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 119,
+		"fields": {
+			"name": "destruction",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 120,
+		"fields": {
+			"name": "butterfly",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 121,
+		"fields": {
+			"name": "injection",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 122,
+		"fields": {
+			"name": "respectable",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 123,
+		"fields": {
+			"name": "satisfied",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 124,
+		"fields": {
+			"name": "development",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 125,
+		"fields": {
+			"name": "conviction",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 126,
+		"fields": {
+			"name": "horseshoe",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 127,
+		"fields": {
+			"name": "organisation",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 128,
+		"fields": {
+			"name": "nomination",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 129,
+		"fields": {
+			"name": "deteriorate",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 130,
+		"fields": {
+			"name": "relevance",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 131,
+		"fields": {
+			"name": "presentation",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 132,
+		"fields": {
+			"name": "initiative",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 133,
+		"fields": {
+			"name": "formulate",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 134,
+		"fields": {
+			"name": "represent",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 135,
+		"fields": {
+			"name": "credit card",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 136,
+		"fields": {
+			"name": "integrated",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 137,
+		"fields": {
+			"name": "fashionable",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 138,
+		"fields": {
+			"name": "acquisition",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 139,
+		"fields": {
+			"name": "sacrifice",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 140,
+		"fields": {
+			"name": "telephone",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 141,
+		"fields": {
+			"name": "beautiful",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 142,
+		"fields": {
+			"name": "fascinate",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 143,
+		"fields": {
+			"name": "chocolate",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 144,
+		"fields": {
+			"name": "premature",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 145,
+		"fields": {
+			"name": "reproduction",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 146,
+		"fields": {
+			"name": "uncertainty",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 147,
+		"fields": {
+			"name": "treasurer",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 148,
+		"fields": {
+			"name": "conception",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 149,
+		"fields": {
+			"name": "temporary",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 150,
+		"fields": {
+			"name": "magnitude",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 151,
+		"fields": {
+			"name": "separation",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 152,
+		"fields": {
+			"name": "settlement",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 153,
+		"fields": {
+			"name": "disability",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 154,
+		"fields": {
+			"name": "expectation",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 155,
+		"fields": {
+			"name": "architecture",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 156,
+		"fields": {
+			"name": "civilization",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 157,
+		"fields": {
+			"name": "circumstance",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 158,
+		"fields": {
+			"name": "transparent",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 159,
+		"fields": {
+			"name": "accessible",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 160,
+		"fields": {
+			"name": "advertising",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 161,
+		"fields": {
+			"name": "comprehensive",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 162,
+		"fields": {
+			"name": "background",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 163,
+		"fields": {
+			"name": "protection",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 164,
+		"fields": {
+			"name": "assertive",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 165,
+		"fields": {
+			"name": "articulate",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 166,
+		"fields": {
+			"name": "admiration",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 167,
+		"fields": {
+			"name": "occupation",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 168,
+		"fields": {
+			"name": "nationalism",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 169,
+		"fields": {
+			"name": "temptation",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 170,
+		"fields": {
+			"name": "presidential",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 171,
+		"fields": {
+			"name": "reception",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 172,
+		"fields": {
+			"name": "preference",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 173,
+		"fields": {
+			"name": "transform",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 174,
+		"fields": {
+			"name": "embarrassment",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 175,
+		"fields": {
+			"name": "cigarette",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 176,
+		"fields": {
+			"name": "government",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 177,
+		"fields": {
+			"name": "accumulation",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 178,
+		"fields": {
+			"name": "suspicion",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 179,
+		"fields": {
+			"name": "commemorate",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 180,
+		"fields": {
+			"name": "conservation",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 181,
+		"fields": {
+			"name": "important",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 182,
+		"fields": {
+			"name": "coalition",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 183,
+		"fields": {
+			"name": "mainstream",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 184,
+		"fields": {
+			"name": "revolutionary",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 185,
+		"fields": {
+			"name": "agriculture",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 186,
+		"fields": {
+			"name": "dependence",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 187,
+		"fields": {
+			"name": "sculpture",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 188,
+		"fields": {
+			"name": "invisible",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 189,
+		"fields": {
+			"name": "executive",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 190,
+		"fields": {
+			"name": "encourage",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 191,
+		"fields": {
+			"name": "cell phone",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 192,
+		"fields": {
+			"name": "human body",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 193,
+		"fields": {
+			"name": "agreement",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 194,
+		"fields": {
+			"name": "opposition",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 195,
+		"fields": {
+			"name": "requirement",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 196,
+		"fields": {
+			"name": "satisfaction",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 197,
+		"fields": {
+			"name": "consideration",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 198,
+		"fields": {
+			"name": "avant-garde",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 199,
+		"fields": {
+			"name": "unfortunate",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 200,
+		"fields": {
+			"name": "paralyzed",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 201,
+		"fields": {
+			"name": "charismatic",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 202,
+		"fields": {
+			"name": "violation",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 203,
+		"fields": {
+			"name": "restaurant",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 204,
+		"fields": {
+			"name": "departure",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 205,
+		"fields": {
+			"name": "challenge",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 206,
+		"fields": {
+			"name": "fastidious",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 207,
+		"fields": {
+			"name": "remunerate",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 208,
+		"fields": {
+			"name": "distortion",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 209,
+		"fields": {
+			"name": "speculate",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 210,
+		"fields": {
+			"name": "plaintiff",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 211,
+		"fields": {
+			"name": "conversation",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 212,
+		"fields": {
+			"name": "computer virus",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 213,
+		"fields": {
+			"name": "exhibition",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 214,
+		"fields": {
+			"name": "precedent",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 215,
+		"fields": {
+			"name": "expression",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 216,
+		"fields": {
+			"name": "publication",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 217,
+		"fields": {
+			"name": "colleague",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 218,
+		"fields": {
+			"name": "strategic",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 219,
+		"fields": {
+			"name": "architect",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 220,
+		"fields": {
+			"name": "resignation",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 221,
+		"fields": {
+			"name": "calculation",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 222,
+		"fields": {
+			"name": "miscarriage",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 223,
+		"fields": {
+			"name": "thoughtful",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 224,
+		"fields": {
+			"name": "exaggerate",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 225,
+		"fields": {
+			"name": "guerrilla",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 226,
+		"fields": {
+			"name": "legislation",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 227,
+		"fields": {
+			"name": "interrupt",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 228,
+		"fields": {
+			"name": "leadership",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 229,
+		"fields": {
+			"name": "discipline",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 230,
+		"fields": {
+			"name": "intention",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 231,
+		"fields": {
+			"name": "champagne",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 232,
+		"fields": {
+			"name": "beginning",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 233,
+		"fields": {
+			"name": "permanent",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 234,
+		"fields": {
+			"name": "representative",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 235,
+		"fields": {
+			"name": "selection",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 236,
+		"fields": {
+			"name": "temperature",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 237,
+		"fields": {
+			"name": "electronics",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 238,
+		"fields": {
+			"name": "inflation",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 239,
+		"fields": {
+			"name": "management",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 240,
+		"fields": {
+			"name": "inspector",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 241,
+		"fields": {
+			"name": "goalkeeper",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 242,
+		"fields": {
+			"name": "expansion",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 243,
+		"fields": {
+			"name": "performance",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 244,
+		"fields": {
+			"name": "introduce",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 245,
+		"fields": {
+			"name": "understanding",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 246,
+		"fields": {
+			"name": "breakfast",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 247,
+		"fields": {
+			"name": "headquarters",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 248,
+		"fields": {
+			"name": "brilliance",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 249,
+		"fields": {
+			"name": "reconcile",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 250,
+		"fields": {
+			"name": "nonremittal",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 251,
+		"fields": {
+			"name": "chimpanzee",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 252,
+		"fields": {
+			"name": "infrastructure",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 253,
+		"fields": {
+			"name": "knowledge",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 254,
+		"fields": {
+			"name": "decoration",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 255,
+		"fields": {
+			"name": "construct",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 256,
+		"fields": {
+			"name": "guideline",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 257,
+		"fields": {
+			"name": "vegetation",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 258,
+		"fields": {
+			"name": "definition",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 259,
+		"fields": {
+			"name": "exploration",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 260,
+		"fields": {
+			"name": "rehabilitation",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 261,
+		"fields": {
+			"name": "consolidate",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 262,
+		"fields": {
+			"name": "relinquish",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 263,
+		"fields": {
+			"name": "perception",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 264,
+		"fields": {
+			"name": "literature",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 265,
+		"fields": {
+			"name": "possession",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 266,
+		"fields": {
+			"name": "structure",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 267,
+		"fields": {
+			"name": "appearance",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 268,
+		"fields": {
+			"name": "horoscope",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 269,
+		"fields": {
+			"name": "reflection",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 270,
+		"fields": {
+			"name": "hypnothize",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 271,
+		"fields": {
+			"name": "adventure",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 272,
+		"fields": {
+			"name": "contraction",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 273,
+		"fields": {
+			"name": "responsible",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 274,
+		"fields": {
+			"name": "compensation",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 275,
+		"fields": {
+			"name": "earthquake",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 276,
+		"fields": {
+			"name": "captivate",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 277,
+		"fields": {
+			"name": "understand",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 278,
+		"fields": {
+			"name": "regulation",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 279,
+		"fields": {
+			"name": "conservative",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 280,
+		"fields": {
+			"name": "blue jean",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 281,
+		"fields": {
+			"name": "financial",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 282,
+		"fields": {
+			"name": "continental",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 283,
+		"fields": {
+			"name": "operation",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 284,
+		"fields": {
+			"name": "rebellion",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 285,
+		"fields": {
+			"name": "sensitive",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 286,
+		"fields": {
+			"name": "consultation",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 287,
+		"fields": {
+			"name": "neighborhood",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 288,
+		"fields": {
+			"name": "beneficiary",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 289,
+		"fields": {
+			"name": "confrontation",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 290,
+		"fields": {
+			"name": "straighten",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 291,
+		"fields": {
+			"name": "incentive",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 292,
+		"fields": {
+			"name": "gregarious",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 293,
+		"fields": {
+			"name": "characteristic",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 294,
+		"fields": {
+			"name": "demonstrate",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 295,
+		"fields": {
+			"name": "education",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 296,
+		"fields": {
+			"name": "freighter",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 297,
+		"fields": {
+			"name": "indication",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 298,
+		"fields": {
+			"name": "prosecute",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 299,
+		"fields": {
+			"name": "emergency",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 300,
+		"fields": {
+			"name": "computing",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 301,
+		"fields": {
+			"name": "dangerous",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 302,
+		"fields": {
+			"name": "eavesdrop",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 303,
+		"fields": {
+			"name": "experiment",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 304,
+		"fields": {
+			"name": "depressed",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 305,
+		"fields": {
+			"name": "defendant",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 306,
+		"fields": {
+			"name": "commission",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 307,
+		"fields": {
+			"name": "philosophy",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 308,
+		"fields": {
+			"name": "helicopter",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 309,
+		"fields": {
+			"name": "penetrate",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 310,
+		"fields": {
+			"name": "restoration",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 311,
+		"fields": {
+			"name": "competition",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 312,
+		"fields": {
+			"name": "sanctuary",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 313,
+		"fields": {
+			"name": "exclusive",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 314,
+		"fields": {
+			"name": "practical",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 315,
+		"fields": {
+			"name": "reservoir",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 316,
+		"fields": {
+			"name": "candidate",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 317,
+		"fields": {
+			"name": "anniversary",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 318,
+		"fields": {
+			"name": "mechanism",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 319,
+		"fields": {
+			"name": "provincial",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 320,
+		"fields": {
+			"name": "investment",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 321,
+		"fields": {
+			"name": "assignment",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 322,
+		"fields": {
+			"name": "conductor",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 323,
+		"fields": {
+			"name": "achievement",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 324,
+		"fields": {
+			"name": "conscience",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 325,
+		"fields": {
+			"name": "craftsman",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 326,
+		"fields": {
+			"name": "improvement",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 327,
+		"fields": {
+			"name": "notorious",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 328,
+		"fields": {
+			"name": "unpleasant",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 329,
+		"fields": {
+			"name": "assumption",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 330,
+		"fields": {
+			"name": "elaborate",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 331,
+		"fields": {
+			"name": "hypothesize",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 332,
+		"fields": {
+			"name": "discovery",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 333,
+		"fields": {
+			"name": "classroom",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 334,
+		"fields": {
+			"name": "difficulty",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 335,
+		"fields": {
+			"name": "convention",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 336,
+		"fields": {
+			"name": "reinforce",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 337,
+		"fields": {
+			"name": "publicity",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 338,
+		"fields": {
+			"name": "continuation",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 339,
+		"fields": {
+			"name": "isolation",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 340,
+		"fields": {
+			"name": "effective",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 341,
+		"fields": {
+			"name": "satellite",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 342,
+		"fields": {
+			"name": "apparatus",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 343,
+		"fields": {
+			"name": "decorative",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 344,
+		"fields": {
+			"name": "declaration",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 345,
+		"fields": {
+			"name": "performer",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 346,
+		"fields": {
+			"name": "particular",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 347,
+		"fields": {
+			"name": "contradiction",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 348,
+		"fields": {
+			"name": "concession",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 349,
+		"fields": {
+			"name": "hostility",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 350,
+		"fields": {
+			"name": "diplomatic",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 351,
+		"fields": {
+			"name": "willpower",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 352,
+		"fields": {
+			"name": "secretion",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 353,
+		"fields": {
+			"name": "treatment",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 354,
+		"fields": {
+			"name": "mathematics",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 355,
+		"fields": {
+			"name": "marketing",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 356,
+		"fields": {
+			"name": "admission",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 357,
+		"fields": {
+			"name": "wilderness",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 358,
+		"fields": {
+			"name": "index finger",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 359,
+		"fields": {
+			"name": "multimedia",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 360,
+		"fields": {
+			"name": "hemisphere",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 361,
+		"fields": {
+			"name": "advantage",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 362,
+		"fields": {
+			"name": "blackmail",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 363,
+		"fields": {
+			"name": "migration",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 364,
+		"fields": {
+			"name": "franchise",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 365,
+		"fields": {
+			"name": "fluctuation",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 366,
+		"fields": {
+			"name": "participate",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 367,
+		"fields": {
+			"name": "refrigerator",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 368,
+		"fields": {
+			"name": "influence",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 369,
+		"fields": {
+			"name": "acceptable",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 370,
+		"fields": {
+			"name": "suffering",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 371,
+		"fields": {
+			"name": "fisherman",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 372,
+		"fields": {
+			"name": "contribution",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 373,
+		"fields": {
+			"name": "excavation",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 374,
+		"fields": {
+			"name": "constitution",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 375,
+		"fields": {
+			"name": "celebration",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 376,
+		"fields": {
+			"name": "waterfall",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 377,
+		"fields": {
+			"name": "distributor",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 378,
+		"fields": {
+			"name": "disappear",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 379,
+		"fields": {
+			"name": "statement",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 380,
+		"fields": {
+			"name": "discrimination",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 381,
+		"fields": {
+			"name": "shareholder",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 382,
+		"fields": {
+			"name": "sensation",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 383,
+		"fields": {
+			"name": "illustrate",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 384,
+		"fields": {
+			"name": "dictionary",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 385,
+		"fields": {
+			"name": "attractive",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 386,
+		"fields": {
+			"name": "projection",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 387,
+		"fields": {
+			"name": "difference",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 388,
+		"fields": {
+			"name": "accountant",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 389,
+		"fields": {
+			"name": "vegetarian",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 390,
+		"fields": {
+			"name": "transmission",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 391,
+		"fields": {
+			"name": "appointment",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 392,
+		"fields": {
+			"name": "attachment",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 393,
+		"fields": {
+			"name": "artificial",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 394,
+		"fields": {
+			"name": "simplicity",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 395,
+		"fields": {
+			"name": "institution",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 396,
+		"fields": {
+			"name": "memorandum",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 397,
+		"fields": {
+			"name": "appreciate",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 398,
+		"fields": {
+			"name": "instrument",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 399,
+		"fields": {
+			"name": "relaxation",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 400,
+		"fields": {
+			"name": "parachute",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 401,
+		"fields": {
+			"name": "environment",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 402,
+		"fields": {
+			"name": "prejudice",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 403,
+		"fields": {
+			"name": "intermediate",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 404,
+		"fields": {
+			"name": "repetition",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 405,
+		"fields": {
+			"name": "secretary",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 406,
+		"fields": {
+			"name": "dimension",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 407,
+		"fields": {
+			"name": "engagement",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 408,
+		"fields": {
+			"name": "litigation",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 409,
+		"fields": {
+			"name": "recording",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 410,
+		"fields": {
+			"name": "quotation",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 411,
+		"fields": {
+			"name": "paragraph",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 412,
+		"fields": {
+			"name": "clearance",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 413,
+		"fields": {
+			"name": "broadcast",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 414,
+		"fields": {
+			"name": "experienced",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 415,
+		"fields": {
+			"name": "cultivate",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 416,
+		"fields": {
+			"name": "anticipation",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 417,
+		"fields": {
+			"name": "extraterrestrial",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 418,
+		"fields": {
+			"name": "recession",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 419,
+		"fields": {
+			"name": "correction",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 420,
+		"fields": {
+			"name": "short circuit",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 421,
+		"fields": {
+			"name": "discourage",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 422,
+		"fields": {
+			"name": "obligation",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 423,
+		"fields": {
+			"name": "spontaneous",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 424,
+		"fields": {
+			"name": "demonstration",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 425,
+		"fields": {
+			"name": "reduction",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 426,
+		"fields": {
+			"name": "preoccupation",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 427,
+		"fields": {
+			"name": "allowance",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 428,
+		"fields": {
+			"name": "formation",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 429,
+		"fields": {
+			"name": "expertise",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 430,
+		"fields": {
+			"name": "chemistry",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 431,
+		"fields": {
+			"name": "recognize",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 432,
+		"fields": {
+			"name": "discriminate",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 433,
+		"fields": {
+			"name": "favorable",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 434,
+		"fields": {
+			"name": "economist",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 435,
+		"fields": {
+			"name": "orchestra",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 436,
+		"fields": {
+			"name": "policeman",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 437,
+		"fields": {
+			"name": "eliminate",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 438,
+		"fields": {
+			"name": "confusion",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 439,
+		"fields": {
+			"name": "combination",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 440,
+		"fields": {
+			"name": "incredible",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 441,
+		"fields": {
+			"name": "mechanical",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 442,
+		"fields": {
+			"name": "domination",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 443,
+		"fields": {
+			"name": "withdrawal",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 444,
+		"fields": {
+			"name": "right wing",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 445,
+		"fields": {
+			"name": "compromise",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 446,
+		"fields": {
+			"name": "compartment",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 447,
+		"fields": {
+			"name": "different",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 448,
+		"fields": {
+			"name": "extension",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 449,
+		"fields": {
+			"name": "residence",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 450,
+		"fields": {
+			"name": "motivation",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 451,
+		"fields": {
+			"name": "transition",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 452,
+		"fields": {
+			"name": "correspondence",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 453,
+		"fields": {
+			"name": "complication",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 454,
+		"fields": {
+			"name": "supplementary",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 455,
+		"fields": {
+			"name": "precision",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 456,
+		"fields": {
+			"name": "disappointment",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 457,
+		"fields": {
+			"name": "excitement",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 458,
+		"fields": {
+			"name": "grandmother",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 459,
+		"fields": {
+			"name": "enthusiasm",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 460,
+		"fields": {
+			"name": "grandfather",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 461,
+		"fields": {
+			"name": "stimulation",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 462,
+		"fields": {
+			"name": "executrix",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 463,
+		"fields": {
+			"name": "personality",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 464,
+		"fields": {
+			"name": "application",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 465,
+		"fields": {
+			"name": "federation",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 466,
+		"fields": {
+			"name": "permission",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 467,
+		"fields": {
+			"name": "competence",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 468,
+		"fields": {
+			"name": "consumption",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 469,
+		"fields": {
+			"name": "pedestrian",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 470,
+		"fields": {
+			"name": "convenience",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 471,
+		"fields": {
+			"name": "conspiracy",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 472,
+		"fields": {
+			"name": "recommendation",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 473,
+		"fields": {
+			"name": "undermine",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 474,
+		"fields": {
+			"name": "publisher",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 475,
+		"fields": {
+			"name": "inappropriate",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 476,
+		"fields": {
+			"name": "president",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 477,
+		"fields": {
+			"name": "revolution",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 478,
+		"fields": {
+			"name": "researcher",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 479,
+		"fields": {
+			"name": "authorise",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 480,
+		"fields": {
+			"name": "wisecrack",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 481,
+		"fields": {
+			"name": "plagiarize",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 482,
+		"fields": {
+			"name": "experience",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 483,
+		"fields": {
+			"name": "nationalist",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 484,
+		"fields": {
+			"name": "offspring",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 485,
+		"fields": {
+			"name": "offensive",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 486,
+		"fields": {
+			"name": "attraction",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 487,
+		"fields": {
+			"name": "concentration",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 488,
+		"fields": {
+			"name": "housewife",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 489,
+		"fields": {
+			"name": "exemption",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 490,
+		"fields": {
+			"name": "circulation",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 491,
+		"fields": {
+			"name": "establish",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 492,
+		"fields": {
+			"name": "reluctance",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 493,
+		"fields": {
+			"name": "vegetable",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 494,
+		"fields": {
+			"name": "break down",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 495,
+		"fields": {
+			"name": "landscape",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 496,
+		"fields": {
+			"name": "incapable",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 497,
+		"fields": {
+			"name": "ignorance",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 498,
+		"fields": {
+			"name": "intelligence",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 499,
+		"fields": {
+			"name": "arrangement",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 500,
+		"fields": {
+			"name": "stereotype",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 501,
+		"fields": {
+			"name": "presidency",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 502,
+		"fields": {
+			"name": "community",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 503,
+		"fields": {
+			"name": "cooperation",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 504,
+		"fields": {
+			"name": "hospitality",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 505,
+		"fields": {
+			"name": "deviation",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 506,
+		"fields": {
+			"name": "fabricate",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 507,
+		"fields": {
+			"name": "guarantee",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 508,
+		"fields": {
+			"name": "comfortable",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 509,
+		"fields": {
+			"name": "attention",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 510,
+		"fields": {
+			"name": "biography",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 511,
+		"fields": {
+			"name": "qualification",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 512,
+		"fields": {
+			"name": "committee",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 513,
+		"fields": {
+			"name": "productive",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 514,
+		"fields": {
+			"name": "resolution",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 515,
+		"fields": {
+			"name": "professor",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 516,
+		"fields": {
+			"name": "examination",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 517,
+		"fields": {
+			"name": "perforate",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 518,
+		"fields": {
+			"name": "announcement",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 519,
+		"fields": {
+			"name": "miserable",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 520,
+		"fields": {
+			"name": "gas pedal",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 521,
+		"fields": {
+			"name": "liability",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 522,
+		"fields": {
+			"name": "constituency",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 523,
+		"fields": {
+			"name": "hierarchy",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 524,
+		"fields": {
+			"name": "economics",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 525,
+		"fields": {
+			"name": "strikebreaker",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 526,
+		"fields": {
+			"name": "constellation",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 527,
+		"fields": {
+			"name": "superintendent",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 528,
+		"fields": {
+			"name": "reputation",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 529,
+		"fields": {
+			"name": "catalogue",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 530,
+		"fields": {
+			"name": "conglomerate",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 531,
+		"fields": {
+			"name": "prediction",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 532,
+		"fields": {
+			"name": "identification",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 533,
+		"fields": {
+			"name": "relationship",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 534,
+		"fields": {
+			"name": "sympathetic",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 535,
+		"fields": {
+			"name": "acquaintance",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 536,
+		"fields": {
+			"name": "intervention",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 537,
+		"fields": {
+			"name": "consensus",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 538,
+		"fields": {
+			"name": "manufacturer",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 539,
+		"fields": {
+			"name": "functional",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 540,
+		"fields": {
+			"name": "intensify",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 541,
+		"fields": {
+			"name": "authority",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 542,
+		"fields": {
+			"name": "interactive",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 543,
+		"fields": {
+			"name": "allocation",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 544,
+		"fields": {
+			"name": "overwhelm",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 545,
+		"fields": {
+			"name": "assessment",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 546,
+		"fields": {
+			"name": "insurance",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 547,
+		"fields": {
+			"name": "constitutional",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 548,
+		"fields": {
+			"name": "television",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 549,
+		"fields": {
+			"name": "implication",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 550,
+		"fields": {
+			"name": "automatic",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 551,
+		"fields": {
+			"name": "collection",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 552,
+		"fields": {
+			"name": "sensitivity",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 553,
+		"fields": {
+			"name": "retirement",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 554,
+		"fields": {
+			"name": "direction",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 555,
+		"fields": {
+			"name": "frequency",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 556,
+		"fields": {
+			"name": "interference",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 557,
+		"fields": {
+			"name": "negligence",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 558,
+		"fields": {
+			"name": "contemporary",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 559,
+		"fields": {
+			"name": "registration",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 560,
+		"fields": {
+			"name": "investigation",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 561,
+		"fields": {
+			"name": "inhabitant",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 562,
+		"fields": {
+			"name": "reference",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 563,
+		"fields": {
+			"name": "cooperate",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 564,
+		"fields": {
+			"name": "promotion",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 565,
+		"fields": {
+			"name": "rehearsal",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 566,
+		"fields": {
+			"name": "unanimous",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 567,
+		"fields": {
+			"name": "hypothesis",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 568,
+		"fields": {
+			"name": "entitlement",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 569,
+		"fields": {
+			"name": "concentrate",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 570,
+		"fields": {
+			"name": "incongruous",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 571,
+		"fields": {
+			"name": "technique",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 572,
+		"fields": {
+			"name": "nightmare",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 573,
+		"fields": {
+			"name": "convulsion",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 574,
+		"fields": {
+			"name": "brainstorm",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 575,
+		"fields": {
+			"name": "tournament",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 576,
+		"fields": {
+			"name": "coincidence",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 577,
+		"fields": {
+			"name": "expenditure",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 578,
+		"fields": {
+			"name": "deficiency",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 579,
+		"fields": {
+			"name": "entertainment",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 580,
+		"fields": {
+			"name": "disappoint",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 581,
+		"fields": {
+			"name": "recommend",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 582,
+		"fields": {
+			"name": "mastermind",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 583,
+		"fields": {
+			"name": "integration",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 584,
+		"fields": {
+			"name": "ghostwriter",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 585,
+		"fields": {
+			"name": "ambiguity",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 586,
+		"fields": {
+			"name": "integrity",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 587,
+		"fields": {
+			"name": "explosion",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 588,
+		"fields": {
+			"name": "observation",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 589,
+		"fields": {
+			"name": "continuous",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 590,
+		"fields": {
+			"name": "highlight",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 591,
+		"fields": {
+			"name": "corruption",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 592,
+		"fields": {
+			"name": "translate",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 593,
+		"fields": {
+			"name": "available",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 594,
+		"fields": {
+			"name": "infection",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 595,
+		"fields": {
+			"name": "information",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 596,
+		"fields": {
+			"name": "curriculum",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 597,
+		"fields": {
+			"name": "transport",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 598,
+		"fields": {
+			"name": "communication",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 599,
+		"fields": {
+			"name": "professional",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 600,
+		"fields": {
+			"name": "orientation",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 601,
+		"fields": {
+			"name": "aluminium",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 602,
+		"fields": {
+			"name": "salvation",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 603,
+		"fields": {
+			"name": "prosecution",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 604,
+		"fields": {
+			"name": "manufacture",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 605,
+		"fields": {
+			"name": "situation",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 606,
+		"fields": {
+			"name": "inhibition",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 607,
+		"fields": {
+			"name": "conference",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 608,
+		"fields": {
+			"name": "consciousness",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 609,
+		"fields": {
+			"name": "folk music",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 610,
+		"fields": {
+			"name": "variation",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 611,
+		"fields": {
+			"name": "first-hand",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 612,
+		"fields": {
+			"name": "association",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 613,
+		"fields": {
+			"name": "fireplace",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 614,
+		"fields": {
+			"name": "technology",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 615,
+		"fields": {
+			"name": "cathedral",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 616,
+		"fields": {
+			"name": "demonstrator",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 617,
+		"fields": {
+			"name": "salesperson",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 618,
+		"fields": {
+			"name": "evolution",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 619,
+		"fields": {
+			"name": "psychology",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 620,
+		"fields": {
+			"name": "criticism",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 621,
+		"fields": {
+			"name": "advertise",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 622,
+		"fields": {
+			"name": "hilarious",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 623,
+		"fields": {
+			"name": "prescription",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 624,
+		"fields": {
+			"name": "staircase",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 625,
+		"fields": {
+			"name": "execution",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 626,
+		"fields": {
+			"name": "conclusion",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 627,
+		"fields": {
+			"name": "dismissal",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 628,
+		"fields": {
+			"name": "proportion",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 629,
+		"fields": {
+			"name": "systematic",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 630,
+		"fields": {
+			"name": "therapist",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 631,
+		"fields": {
+			"name": "lifestyle",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 632,
+		"fields": {
+			"name": "astonishing",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 633,
+		"fields": {
+			"name": "atmosphere",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 634,
+		"fields": {
+			"name": "principle",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 635,
+		"fields": {
+			"name": "determine",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 636,
+		"fields": {
+			"name": "disagreement",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 637,
+		"fields": {
+			"name": "chalk",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 638,
+		"fields": {
+			"name": "deputy",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 639,
+		"fields": {
+			"name": "spider",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 640,
+		"fields": {
+			"name": "think",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 641,
+		"fields": {
+			"name": "lobby",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 642,
+		"fields": {
+			"name": "fade",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 643,
+		"fields": {
+			"name": "locate",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 644,
+		"fields": {
+			"name": "spray",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 645,
+		"fields": {
+			"name": "drift",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 646,
+		"fields": {
+			"name": "sun",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 647,
+		"fields": {
+			"name": "ignore",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 648,
+		"fields": {
+			"name": "seal",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 649,
+		"fields": {
+			"name": "noise",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 650,
+		"fields": {
+			"name": "reveal",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 651,
+		"fields": {
+			"name": "meet",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 652,
+		"fields": {
+			"name": "patent",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 653,
+		"fields": {
+			"name": "rebel",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 654,
+		"fields": {
+			"name": "maze",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 655,
+		"fields": {
+			"name": "mirror",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 656,
+		"fields": {
+			"name": "sailor",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 657,
+		"fields": {
+			"name": "vein",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 658,
+		"fields": {
+			"name": "spill",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 659,
+		"fields": {
+			"name": "salon",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 660,
+		"fields": {
+			"name": "tile",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 661,
+		"fields": {
+			"name": "robot",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 662,
+		"fields": {
+			"name": "far",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 663,
+		"fields": {
+			"name": "bubble",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 664,
+		"fields": {
+			"name": "answer",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 665,
+		"fields": {
+			"name": "award",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 666,
+		"fields": {
+			"name": "figure",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 667,
+		"fields": {
+			"name": "cash",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 668,
+		"fields": {
+			"name": "eagle",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 669,
+		"fields": {
+			"name": "chest",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 670,
+		"fields": {
+			"name": "crash",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 671,
+		"fields": {
+			"name": "loop",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 672,
+		"fields": {
+			"name": "kidnap",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 673,
+		"fields": {
+			"name": "wrong",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 674,
+		"fields": {
+			"name": "dip",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 675,
+		"fields": {
+			"name": "twin",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 676,
+		"fields": {
+			"name": "brag",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 677,
+		"fields": {
+			"name": "fairy",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 678,
+		"fields": {
+			"name": "weight",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 679,
+		"fields": {
+			"name": "temple",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 680,
+		"fields": {
+			"name": "proud",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 681,
+		"fields": {
+			"name": "camp",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 682,
+		"fields": {
+			"name": "wood",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 683,
+		"fields": {
+			"name": "clear",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 684,
+		"fields": {
+			"name": "bundle",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 685,
+		"fields": {
+			"name": "nose",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 686,
+		"fields": {
+			"name": "shadow",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 687,
+		"fields": {
+			"name": "cart",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 688,
+		"fields": {
+			"name": "cord",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 689,
+		"fields": {
+			"name": "ex",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 690,
+		"fields": {
+			"name": "firm",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 691,
+		"fields": {
+			"name": "reach",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 692,
+		"fields": {
+			"name": "learn",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 693,
+		"fields": {
+			"name": "output",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 694,
+		"fields": {
+			"name": "tail",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 695,
+		"fields": {
+			"name": "keep",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 696,
+		"fields": {
+			"name": "oven",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 697,
+		"fields": {
+			"name": "hour",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 698,
+		"fields": {
+			"name": "hall",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 699,
+		"fields": {
+			"name": "crude",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 700,
+		"fields": {
+			"name": "tough",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 701,
+		"fields": {
+			"name": "dark",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 702,
+		"fields": {
+			"name": "hike",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 703,
+		"fields": {
+			"name": "carrot",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 704,
+		"fields": {
+			"name": "bed",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 705,
+		"fields": {
+			"name": "beach",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 706,
+		"fields": {
+			"name": "slide",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 707,
+		"fields": {
+			"name": "piano",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 708,
+		"fields": {
+			"name": "swell",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 709,
+		"fields": {
+			"name": "coma",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 710,
+		"fields": {
+			"name": "late",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 711,
+		"fields": {
+			"name": "closed",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 712,
+		"fields": {
+			"name": "jockey",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 713,
+		"fields": {
+			"name": "throne",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 714,
+		"fields": {
+			"name": "snatch",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 715,
+		"fields": {
+			"name": "embark",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 716,
+		"fields": {
+			"name": "trench",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 717,
+		"fields": {
+			"name": "trip",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 718,
+		"fields": {
+			"name": "dairy",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 719,
+		"fields": {
+			"name": "tired",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 720,
+		"fields": {
+			"name": "duty",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 721,
+		"fields": {
+			"name": "burst",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 722,
+		"fields": {
+			"name": "safe",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 723,
+		"fields": {
+			"name": "waiter",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 724,
+		"fields": {
+			"name": "layer",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 725,
+		"fields": {
+			"name": "coal",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 726,
+		"fields": {
+			"name": "love",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 727,
+		"fields": {
+			"name": "jacket",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 728,
+		"fields": {
+			"name": "useful",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 729,
+		"fields": {
+			"name": "save",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 730,
+		"fields": {
+			"name": "frown",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 731,
+		"fields": {
+			"name": "breed",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 732,
+		"fields": {
+			"name": "bottom",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 733,
+		"fields": {
+			"name": "arrow",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 734,
+		"fields": {
+			"name": "shape",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 735,
+		"fields": {
+			"name": "home",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 736,
+		"fields": {
+			"name": "jet",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 737,
+		"fields": {
+			"name": "offer",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 738,
+		"fields": {
+			"name": "offset",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 739,
+		"fields": {
+			"name": "zone",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 740,
+		"fields": {
+			"name": "tiger",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 741,
+		"fields": {
+			"name": "agenda",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 742,
+		"fields": {
+			"name": "harsh",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 743,
+		"fields": {
+			"name": "like",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 744,
+		"fields": {
+			"name": "easy",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 745,
+		"fields": {
+			"name": "old",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 746,
+		"fields": {
+			"name": "mind",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 747,
+		"fields": {
+			"name": "just",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 748,
+		"fields": {
+			"name": "marsh",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 749,
+		"fields": {
+			"name": "course",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 750,
+		"fields": {
+			"name": "lamb",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 751,
+		"fields": {
+			"name": "ward",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 752,
+		"fields": {
+			"name": "cave",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 753,
+		"fields": {
+			"name": "pound",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 754,
+		"fields": {
+			"name": "pit",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 755,
+		"fields": {
+			"name": "policy",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 756,
+		"fields": {
+			"name": "eject",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 757,
+		"fields": {
+			"name": "crowd",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 758,
+		"fields": {
+			"name": "myth",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 759,
+		"fields": {
+			"name": "sex",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 760,
+		"fields": {
+			"name": "fraud",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 761,
+		"fields": {
+			"name": "pain",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 762,
+		"fields": {
+			"name": "insert",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 763,
+		"fields": {
+			"name": "tablet",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 764,
+		"fields": {
+			"name": "meadow",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 765,
+		"fields": {
+			"name": "calf",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 766,
+		"fields": {
+			"name": "pass",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 767,
+		"fields": {
+			"name": "embryo",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 768,
+		"fields": {
+			"name": "screw",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 769,
+		"fields": {
+			"name": "pastel",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 770,
+		"fields": {
+			"name": "aspect",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 771,
+		"fields": {
+			"name": "wait",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 772,
+		"fields": {
+			"name": "craft",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 773,
+		"fields": {
+			"name": "stock",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 774,
+		"fields": {
+			"name": "trial",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 775,
+		"fields": {
+			"name": "proof",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 776,
+		"fields": {
+			"name": "legend",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 777,
+		"fields": {
+			"name": "dump",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 778,
+		"fields": {
+			"name": "reduce",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 779,
+		"fields": {
+			"name": "sniff",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 780,
+		"fields": {
+			"name": "latest",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 781,
+		"fields": {
+			"name": "master",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 782,
+		"fields": {
+			"name": "clean",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 783,
+		"fields": {
+			"name": "injury",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 784,
+		"fields": {
+			"name": "thrust",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 785,
+		"fields": {
+			"name": "slant",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 786,
+		"fields": {
+			"name": "shock",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 787,
+		"fields": {
+			"name": "sister",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 788,
+		"fields": {
+			"name": "smile",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 789,
+		"fields": {
+			"name": "rank",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 790,
+		"fields": {
+			"name": "member",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 791,
+		"fields": {
+			"name": "voter",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 792,
+		"fields": {
+			"name": "halt",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 793,
+		"fields": {
+			"name": "will",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 794,
+		"fields": {
+			"name": "mature",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 795,
+		"fields": {
+			"name": "banner",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 796,
+		"fields": {
+			"name": "lesson",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 797,
+		"fields": {
+			"name": "fair",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 798,
+		"fields": {
+			"name": "drive",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 799,
+		"fields": {
+			"name": "insist",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 800,
+		"fields": {
+			"name": "gas",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 801,
+		"fields": {
+			"name": "manner",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 802,
+		"fields": {
+			"name": "freeze",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 803,
+		"fields": {
+			"name": "red",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 804,
+		"fields": {
+			"name": "solid",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 805,
+		"fields": {
+			"name": "tissue",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 806,
+		"fields": {
+			"name": "valley",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 807,
+		"fields": {
+			"name": "ensure",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 808,
+		"fields": {
+			"name": "barrel",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 809,
+		"fields": {
+			"name": "hobby",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 810,
+		"fields": {
+			"name": "efflux",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 811,
+		"fields": {
+			"name": "real",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 812,
+		"fields": {
+			"name": "social",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 813,
+		"fields": {
+			"name": "berry",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 814,
+		"fields": {
+			"name": "faith",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 815,
+		"fields": {
+			"name": "polite",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 816,
+		"fields": {
+			"name": "cell",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 817,
+		"fields": {
+			"name": "afford",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 818,
+		"fields": {
+			"name": "occupy",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 819,
+		"fields": {
+			"name": "sector",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 820,
+		"fields": {
+			"name": "runner",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 821,
+		"fields": {
+			"name": "tumour",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 822,
+		"fields": {
+			"name": "bang",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 823,
+		"fields": {
+			"name": "Koran",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 824,
+		"fields": {
+			"name": "chief",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 825,
+		"fields": {
+			"name": "major",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 826,
+		"fields": {
+			"name": "behead",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 827,
+		"fields": {
+			"name": "spell",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 828,
+		"fields": {
+			"name": "beg",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 829,
+		"fields": {
+			"name": "well",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 830,
+		"fields": {
+			"name": "door",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 831,
+		"fields": {
+			"name": "flock",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 832,
+		"fields": {
+			"name": "native",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 833,
+		"fields": {
+			"name": "crime",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 834,
+		"fields": {
+			"name": "jungle",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 835,
+		"fields": {
+			"name": "palm",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 836,
+		"fields": {
+			"name": "notice",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 837,
+		"fields": {
+			"name": "depend",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 838,
+		"fields": {
+			"name": "system",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 839,
+		"fields": {
+			"name": "touch",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 840,
+		"fields": {
+			"name": "garlic",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 841,
+		"fields": {
+			"name": "set",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 842,
+		"fields": {
+			"name": "shout",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 843,
+		"fields": {
+			"name": "orange",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 844,
+		"fields": {
+			"name": "hard",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 845,
+		"fields": {
+			"name": "spoil",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 846,
+		"fields": {
+			"name": "manage",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 847,
+		"fields": {
+			"name": "metal",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 848,
+		"fields": {
+			"name": "stuff",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 849,
+		"fields": {
+			"name": "groan",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 850,
+		"fields": {
+			"name": "girl",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 851,
+		"fields": {
+			"name": "opera",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 852,
+		"fields": {
+			"name": "tray",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 853,
+		"fields": {
+			"name": "grow",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 854,
+		"fields": {
+			"name": "art",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 855,
+		"fields": {
+			"name": "force",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 856,
+		"fields": {
+			"name": "novel",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 857,
+		"fields": {
+			"name": "second",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 858,
+		"fields": {
+			"name": "note",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 859,
+		"fields": {
+			"name": "brink",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 860,
+		"fields": {
+			"name": "split",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 861,
+		"fields": {
+			"name": "store",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 862,
+		"fields": {
+			"name": "unrest",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 863,
+		"fields": {
+			"name": "mole",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 864,
+		"fields": {
+			"name": "blind",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 865,
+		"fields": {
+			"name": "abuse",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 866,
+		"fields": {
+			"name": "wild",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 867,
+		"fields": {
+			"name": "Venus",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 868,
+		"fields": {
+			"name": "lion",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 869,
+		"fields": {
+			"name": "remain",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 870,
+		"fields": {
+			"name": "wolf",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 871,
+		"fields": {
+			"name": "tax",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 872,
+		"fields": {
+			"name": "sugar",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 873,
+		"fields": {
+			"name": "hear",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 874,
+		"fields": {
+			"name": "fever",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 875,
+		"fields": {
+			"name": "burn",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 876,
+		"fields": {
+			"name": "pack",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 877,
+		"fields": {
+			"name": "admit",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 878,
+		"fields": {
+			"name": "give",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 879,
+		"fields": {
+			"name": "slump",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 880,
+		"fields": {
+			"name": "beat",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 881,
+		"fields": {
+			"name": "stun",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 882,
+		"fields": {
+			"name": "hold",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 883,
+		"fields": {
+			"name": "record",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 884,
+		"fields": {
+			"name": "sheep",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 885,
+		"fields": {
+			"name": "tube",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 886,
+		"fields": {
+			"name": "band",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 887,
+		"fields": {
+			"name": "warn",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 888,
+		"fields": {
+			"name": "flat",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 889,
+		"fields": {
+			"name": "fence",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 890,
+		"fields": {
+			"name": "indoor",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 891,
+		"fields": {
+			"name": "buffet",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 892,
+		"fields": {
+			"name": "staff",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 893,
+		"fields": {
+			"name": "cold",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 894,
+		"fields": {
+			"name": "hang",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 895,
+		"fields": {
+			"name": "cinema",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 896,
+		"fields": {
+			"name": "planet",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 897,
+		"fields": {
+			"name": "mutual",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 898,
+		"fields": {
+			"name": "rider",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 899,
+		"fields": {
+			"name": "lease",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 900,
+		"fields": {
+			"name": "judge",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 901,
+		"fields": {
+			"name": "clerk",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 902,
+		"fields": {
+			"name": "hotdog",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 903,
+		"fields": {
+			"name": "ready",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 904,
+		"fields": {
+			"name": "stir",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 905,
+		"fields": {
+			"name": "bar",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 906,
+		"fields": {
+			"name": "rare",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 907,
+		"fields": {
+			"name": "show",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 908,
+		"fields": {
+			"name": "sip",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 909,
+		"fields": {
+			"name": "cheek",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 910,
+		"fields": {
+			"name": "handy",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 911,
+		"fields": {
+			"name": "morale",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 912,
+		"fields": {
+			"name": "fibre",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 913,
+		"fields": {
+			"name": "veil",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 914,
+		"fields": {
+			"name": "drawer",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 915,
+		"fields": {
+			"name": "sour",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 916,
+		"fields": {
+			"name": "thigh",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 917,
+		"fields": {
+			"name": "bet",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 918,
+		"fields": {
+			"name": "unique",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 919,
+		"fields": {
+			"name": "hill",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 920,
+		"fields": {
+			"name": "face",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 921,
+		"fields": {
+			"name": "bee",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 922,
+		"fields": {
+			"name": "quiet",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 923,
+		"fields": {
+			"name": "burial",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 924,
+		"fields": {
+			"name": "bloody",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 925,
+		"fields": {
+			"name": "grave",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 926,
+		"fields": {
+			"name": "sleeve",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 927,
+		"fields": {
+			"name": "head",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 928,
+		"fields": {
+			"name": "exit",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 929,
+		"fields": {
+			"name": "degree",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 930,
+		"fields": {
+			"name": "rotten",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 931,
+		"fields": {
+			"name": "frank",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 932,
+		"fields": {
+			"name": "apathy",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 933,
+		"fields": {
+			"name": "pie",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 934,
+		"fields": {
+			"name": "low",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 935,
+		"fields": {
+			"name": "shed",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 936,
+		"fields": {
+			"name": "defeat",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 937,
+		"fields": {
+			"name": "baby",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 938,
+		"fields": {
+			"name": "nail",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 939,
+		"fields": {
+			"name": "swipe",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 940,
+		"fields": {
+			"name": "truth",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 941,
+		"fields": {
+			"name": "sock",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 942,
+		"fields": {
+			"name": "tool",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 943,
+		"fields": {
+			"name": "morsel",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 944,
+		"fields": {
+			"name": "virgin",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 945,
+		"fields": {
+			"name": "root",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 946,
+		"fields": {
+			"name": "stress",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 947,
+		"fields": {
+			"name": "tract",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 948,
+		"fields": {
+			"name": "expand",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 949,
+		"fields": {
+			"name": "tasty",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 950,
+		"fields": {
+			"name": "area",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 951,
+		"fields": {
+			"name": "length",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 952,
+		"fields": {
+			"name": "candle",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 953,
+		"fields": {
+			"name": "desire",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 954,
+		"fields": {
+			"name": "cream",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 955,
+		"fields": {
+			"name": "folk",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 956,
+		"fields": {
+			"name": "liver",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 957,
+		"fields": {
+			"name": "sleep",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 958,
+		"fields": {
+			"name": "strain",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 959,
+		"fields": {
+			"name": "pat",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 960,
+		"fields": {
+			"name": "shine",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 961,
+		"fields": {
+			"name": "avenue",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 962,
+		"fields": {
+			"name": "bring",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 963,
+		"fields": {
+			"name": "cool",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 964,
+		"fields": {
+			"name": "code",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 965,
+		"fields": {
+			"name": "enter",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 966,
+		"fields": {
+			"name": "orgy",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 967,
+		"fields": {
+			"name": "heal",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 968,
+		"fields": {
+			"name": "leak",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 969,
+		"fields": {
+			"name": "have",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 970,
+		"fields": {
+			"name": "impact",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 971,
+		"fields": {
+			"name": "glass",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 972,
+		"fields": {
+			"name": "decade",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 973,
+		"fields": {
+			"name": "fame",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 974,
+		"fields": {
+			"name": "speech",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 975,
+		"fields": {
+			"name": "tribe",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 976,
+		"fields": {
+			"name": "utter",
+			"oily": -1,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 977,
+		"fields": {
+			"name": "swop",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 978,
+		"fields": {
+			"name": "disco",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 979,
+		"fields": {
+			"name": "safari",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 980,
+		"fields": {
+			"name": "shower",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 981,
+		"fields": {
+			"name": "merit",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 982,
+		"fields": {
+			"name": "suburb",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 983,
+		"fields": {
+			"name": "detail",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 984,
+		"fields": {
+			"name": "graze",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 985,
+		"fields": {
+			"name": "steak",
+			"oily": 0,
+			"dry": -1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 986,
+		"fields": {
+			"name": "cancel",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 987,
+		"fields": {
+			"name": "album",
+			"oily": 1,
+			"dry": -1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 988,
+		"fields": {
+			"name": "pace",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 989,
+		"fields": {
+			"name": "review",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 990,
+		"fields": {
+			"name": "list",
+			"oily": 1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 991,
+		"fields": {
+			"name": "tear",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 992,
+		"fields": {
+			"name": "fold",
+			"oily": 0,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 993,
+		"fields": {
+			"name": "palace",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 994,
+		"fields": {
+			"name": "lonely",
+			"oily": -1,
+			"dry": -1,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 995,
+		"fields": {
+			"name": "appeal",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 0
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 996,
+		"fields": {
+			"name": "pillow",
+			"oily": 1,
+			"dry": 1,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 997,
+		"fields": {
+			"name": "belly",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": 1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 998,
+		"fields": {
+			"name": "buy",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 999,
+		"fields": {
+			"name": "hurt",
+			"oily": -1,
+			"dry": 0,
+			"sensitive": -1
+		}
+	},
+	{
+		"model": "item.ingredient",
+		"pk": 1000,
+		"fields": {
+			"name": "habit",
+			"oily": 0,
+			"dry": 0,
+			"sensitive": 1
+		}
+	}
+]
