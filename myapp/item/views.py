@@ -7,6 +7,8 @@ from django.db         import transaction
 from django.http       import JsonResponse, HttpResponse
 from django.views      import View
 
+from collections       import namedtuple
+
 class PreProcessing(View):
     def get(self, request):
 
@@ -225,7 +227,7 @@ class itemList(View):
                 return JsonResponse(result, safe=False, status=200)
             
             else :
-                return JsonResponse({"MESSAGE":"SKIN_TYPE NEED"}, status=401)
+                return JsonResponse({"MESSAGE":"SKIN_TYPE_WRONG"}, status=401)
         
         except:
             JsonResponse({"MESSAGE":"BAD REQUESTS"}, status=404)
@@ -240,12 +242,11 @@ class itemDetail(View):
                     skin_type = request.GET.get('skin_type')
 
                 else:
-                    return JsonResponse({"MESSAGE":"SKIN_TYPE_NEED"}, status=401)
+                    return JsonResponse({"MESSAGE":"SKIN_TYPE_WRONG"}, status=401)
             else:
                 return JsonResponse({"MESSAGE":"ID_OUT_OF_RANGE"}, status=401)
             
             item = Item.objects.get(id = id)
-            print(item.ingredients)
             result =  [ 
                         {
                             "id"            : item.id,
@@ -258,21 +259,38 @@ class itemDetail(View):
                             "monthlySales"  : item.monthlySales
                         }
                         ]
-            recomment_item = ItemSkinType.objects.filter(first_skin_type= skin_type, item__category = item.category).order_by('-first_skin_score')
-            for i in recomment_item.values():
-                print(i.)
-            # result.extend(
-            #                 {
-            #                 "id"            : recomment_item.item.id,
-            #                 "imgUrl"        : "https://grepp-programmers-challenges.s3.ap-northeast-2.amazonaws.com/2020-birdview/thumbnail/"+item.imageId+".jpg",
-            #                 "name"          : item.name,
-            #                 "price"         : item.price,
+            recommend_item = ItemSkinType.objects.filter(first_skin_type= skin_type, item__category = item.category).order_by('-first_skin_score')
 
-            #                 }
-            #             )
-            # print(item.category)
-            # print(item.itemskintype_set.values())
+            list_recommend_item = []
+            for data in recommend_item:
+                list_recommend_item.append((data.item.id ,data.item.imageId ,data.item.name ,data.first_skin_score , data.item.price))
+            sorted_list= sorted(list_recommend_item, key = lambda x : (-x[3], x[4]))[0:3]
+            
+            Result = namedtuple('Result','id imageId name first_skin_score price')
+            p1      = Result(*sorted_list[0])
+            p2      = Result(*sorted_list[1])
+            p3      = Result(*sorted_list[2])
 
-            return JsonResponse({"MESSAGE":"SUCCESS"}, status=200)
+            result.extend([
+                            {
+                            "id"            : p1.id,
+                            "imgUrl"        : "https://grepp-programmers-challenges.s3.ap-northeast-2.amazonaws.com/2020-birdview/thumbnail/"+p1.imageId+".jpg",
+                            "name"          : p1.name,
+                            "price"         : p1.price,
+                            },
+                            {
+                            "id"            : p2.id,
+                            "imgUrl"        : "https://grepp-programmers-challenges.s3.ap-northeast-2.amazonaws.com/2020-birdview/thumbnail/"+p2.imageId+".jpg",
+                            "name"          : p2.name,
+                            "price"         : p2.price,
+                            },
+                            {
+                            "id"            : p3.id,
+                            "imgUrl"        : "https://grepp-programmers-challenges.s3.ap-northeast-2.amazonaws.com/2020-birdview/thumbnail/"+p3.imageId+".jpg",
+                            "name"          : p3.name,
+                            "price"         : p3.price,
+                            }
+                        ])
+            return JsonResponse(result, safe=False, status=200)
         except:
             JsonResponse({"MESSAGE":"BAD REQUESTS"}, status=404)
