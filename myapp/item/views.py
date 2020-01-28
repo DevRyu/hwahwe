@@ -188,10 +188,16 @@ class itemList(View):
                 "include_ingredient" : "itemingredientmapping__ingredient__name__in",
             }
 
-            if 'skin_type' in request.GET and request.GET.get('skin_type') in ('oily', 'dry', 'sensitive'):
+            for keys in request.GET.keys():
+                if keys not in data.keys():
+                    return JsonResponse({'MESSAGE':'PARAMETER KEY ERROR'}, status = 400)
+
+
+            if request.GET.get('skin_type') in ('oily', 'dry', 'sensitive'):
                 params_dict    = {}
                 ne_params_dict = {}
                 page           = int(request.GET.get('page', 1))
+                params_dict[data["skin_type"]] = request.GET.get('skin_type')
 
                 for k, v in request.GET.items():
                     if k == 'exclude_ingredient':
@@ -202,14 +208,16 @@ class itemList(View):
                         in_list                 = request.GET.getlist('include_ingredient')
                         params_dict[data[k]]    = in_list
 
-                    elif page:
+                    elif k == 'category':
+                        in_list                 = request.GET.get('category')
+                        params_dict[data[k]]    = in_list
+
+                    elif k == 'page':
                         pass
 
-                    else:
-                        params_dict[data[k]]    = v
-
+                print(params_dict,"   ",ne_params_dict)
                 item = Item.objects.filter(**params_dict).exclude(**ne_params_dict)[(page-1)*50:page*50]
-
+                print(item)
                 if len(item) == 0:
                     return JsonResponse({'MESSAGE':'REQUEST_DATA_NOT_FOUND'}, status = 404)
 
